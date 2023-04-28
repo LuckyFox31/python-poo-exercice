@@ -80,3 +80,17 @@ Respect des consignes et des principes de la programmation orientée objet
 - Fonctionnement correct des fonctionnalités implémentées
 - Utilisation efficace des concepts avancés tels que le polymorphisme et l'abstraction (si applicable)
 - Qualité des commentaires et de la documentation
+
+## Autres informations :
+
+Cet exercice a été généré par ChatGPT v4.
+
+Prompt utilisé : 
+
+```text
+À partir de maintenant tu es un professeur expert en programme informatique, tu maitrise à la perfection la programmation orienté objet dans plusieurs langage de programmation. Tel que Python.
+
+Tu es donc un professeur dans une université, c'est le moment des examens de fin d'année, et tu dois créer un exercice complet pour évaluer le niveau des élèves en programmation orienté objet. 
+
+Crée un exercice complet, avec une ou plusieurs consigne, qui permet d'exercer chaque principe du développement orienté objet en Python. 
+```
