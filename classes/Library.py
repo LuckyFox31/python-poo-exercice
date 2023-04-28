@@ -62,6 +62,6 @@ class Library(ABC):
     def books_list(self, new_books_list: List[Book]) -> None:
         self._books_list = new_books_list
 
-    @members_list
+    @members_list.setter
     def members_list(self, new_members_list: List[Member]) -> None:
         self._members_list = new_members_list
